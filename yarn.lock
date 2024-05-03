@@ -2220,7 +2220,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@react-leaflet/core@npm:^2.0.0-beta.1":
+"@react-leaflet/core@npm:^2.1.0":
   version: 2.1.0
   resolution: "@react-leaflet/core@npm:2.1.0"
   peerDependencies:
@@ -11070,7 +11070,7 @@ __metadata:
     react-i18next: ^11.11.4
     react-infinite-scroll-component: ^6.1.0
     react-insta-stories: ^2.3.0
-    react-leaflet: next
+    react-leaflet: 4.2.1
     react-phone-number-input: ^3.2.17
     react-redux: ^7.2.6
     react-responsive: ^9.0.2
@@ -15014,16 +15014,16 @@ __metadata:
   languageName: node
   linkType: hard
 
-"react-leaflet@npm:next":
-  version: 4.0.0-beta.1
-  resolution: "react-leaflet@npm:4.0.0-beta.1"
+"react-leaflet@npm:4.2.1":
+  version: 4.2.1
+  resolution: "react-leaflet@npm:4.2.1"
   dependencies:
-    "@react-leaflet/core": ^2.0.0-beta.1
+    "@react-leaflet/core": ^2.1.0
   peerDependencies:
-    leaflet: ^1.8.0-beta.3
+    leaflet: ^1.9.0
     react: ^18.0.0
     react-dom: ^18.0.0
-  checksum: 4f915ded041b5dac0f7653ecdbfec1a614ebc016ba640152ac98606e50a1bde7f04634e4027351bdf8e296f34e421fbdc5c5cac530e263431163de5311baef80
+  checksum: 79222c2ba0c62facaa3dfee18f7a692f917a4fb744ba8d22269a77f9779fc9634962230eb51265ff2563a1a5e3287d2ec16640ee7f5de459458027e05cd756ba
   languageName: node
   linkType: hard
 
